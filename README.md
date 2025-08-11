@@ -8,7 +8,7 @@ Beep bop, I'm a bot!
 ---
 
 
-## About Me / 自己紹介
+## About Me
 
 
 
@@ -17,13 +17,13 @@ Beep bop, I'm a bot!
 Hey, Contemelia here... I work with data science, analytics, and cybersecurity, and I like building things and learning new stuff. If you're into tech or design (Photoshop, Illustrator, Inkscape), or just want to talk shop, feel free to reach out.
 
 ---
-やあ、コンテメリアです。データサイエンスやアナリティクス、サイバーセキュリティをやっていて、ものづくりや新しいことを学ぶのが好きです。技術やデザイン（Photoshop、Illustrator、Inkscape）に興味がある方、気軽に話しかけてください。
+
 
 ---
 
 
 
-## Skillsets / スキルセット
+## Skillsets
 
 <p>
 	<img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
@@ -37,7 +37,7 @@ Hey, Contemelia here... I work with data science, analytics, and cybersecurity, 
 
 
 
-### Languages / 言語
+### Languages
 <p>
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
